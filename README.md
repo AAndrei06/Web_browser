@@ -1,2 +1,2 @@
 # Web_browser
-This is a webbrowser made in python with PyQt5 and PyQt5 WebEngine,it can do a lot of things,but it doesn't have tabs.
+This is a web browser made in Python with the help of PyQt5 and PyQt5 WebEngine, it has everything that some web browser has, but it has no tabs.
